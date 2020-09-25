@@ -1,24 +1,47 @@
-# sell
+# vue-sell
 
-## Project setup
+## Introduction
+
+This is a single page application written with [Vue2.0](https://cn.vuejs.org/). It mainly imitates 
+the ELM mobile website on broswer, and covers various basic usage of Vue.js. If you want to learn
+how to write an app with Vue, this might be a good demo for you.
+
+## Run on localhost
+
 ```
+git clone https://github.com/authetic-x/vue-sell
+
+cd vue-sell
+
 npm install
-```
 
-### Compiles and hot-reloads for development
-```
 npm run serve
 ```
 
-### Compiles and minifies for production
-```
-npm run build
-```
+## Main features
 
-### Lints and fixes files
-```
-npm run lint
-```
+- [X] Mock data
+- [X] Using stylus to write CSS
+- [X] Customized components
+- [X] "1px" border
+- [X] Using better-scroll to "scroll" the app
+- [X] ShopCart animation using Transition component
+- [X] Various classic css usages
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## ScreenShots
+
+![main_page](./screenshots/main_page.png)
+![intro_page](./screenshots/intro_page.png)
+![shopcart](./screenshots/shopcart.png)
+![rating_page](./screenshots/rating_page.png)
+![seller_page](./screenshots/seller_page.png)
+
+## Reference
+
+[Vue.js](https://cn.vuejs.org/)
+
+[Vue.js2.5+cube-ui重构饿了么App](https://coding.imooc.com/class/74.html)
+
+## License
+
+[MIT](https://opensource.org/licenses/MIT)
