@@ -30,11 +30,11 @@ npm run serve
 
 ## ScreenShots
 
-![main_page](./screenshots/main_page.png)
-![intro_page](./screenshots/intro_page.png)
-![shopcart](./screenshots/shopcart.png)
-![rating_page](./screenshots/rating_page.png)
-![seller_page](./screenshots/seller_page.png)
+![main_page](https://github.com/authetic-x/vue-sell/blob/master/screenshots/main_page.png)
+![intro_page](https://github.com/authetic-x/vue-sell/blob/master/screenshots/intro_page.png)
+![shopcart](https://github.com/authetic-x/vue-sell/blob/master/screenshots/shopcart.png)
+![rating_page](https://github.com/authetic-x/vue-sell/blob/master/screenshots/rating_page.png)
+![seller_page](https://github.com/authetic-x/vue-sell/blob/master/screenshots/seller_page.png)
 
 ## Reference
 
